@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Taksh+Mehta+%F0%9F%91%8B;B.Tech+CSE+%40+IIT+Jodhpur;Scientific+Machine+Learning+%7C+Neural+Operators;Building+Surrogates+for+Physics%2C+One+PDE+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Taksh+Mehta+%F0%9F%91%8B;B.Tech+CSE+%40+IIT+Jodhpur;Scientific+Machine+Learning+%7C+Neural+Operators;Building+Surrogates+for+Physics%2C+One+PDE+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -18,16 +18,16 @@
 - 🔬 Undergraduate Researcher, **CFD–Machine Learning Group**, Dept. of Aerospace Engineering, IIT Jodhpur — building physics-aware neural operators for aerodynamic flow prediction
 - 🌐 Research Intern, **Numerical Analysis Group, TU Delft** — domain decomposition & Krylov solvers for multiphysics PDEs
 - ✍️ First-author journal manuscript in preparation on neural-operator surrogates for 2D airfoil flows
-- 🧠 Interests: Scientific Machine Learning · Neural Operators · Domain Decomposition · PDE-Constrained Optimization · Embodied AI · Reinforcement Learning
-- ⚙️ Also build full-stack & applied-ML systems on the side (RAG platforms, real-time inference pipelines, autonomous UAV navigation)
+- 🧠 Interests: Scientific Machine Learning · AI4Science · Multiphysics & Multiscale Modelling · Embodied AI · Reinforcement Learning · Autonomous Systems and Robotics · AI for Defence
+- ⚙️ Also love exploring and building projects in AI, embedded software and system design on the side and expanding my knowledge (RAG pipelines and agentic AI, low-level programming for microcontrollers)
 
-> Some of my research and hackathon project repos are still private — reach out if you'd like a walkthrough.
+> Some of my research project repos are still private; they will be made public as soon as I publish.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Scientific ML & Computing**
+**AI/ML and Scientific Software**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -50,9 +50,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -65,22 +62,26 @@
 
 ---
 
-### 🚀 Featured Work
+### 🔬 Research
 
-| Project | Description |
+| Focus | Description |
 |---|---|
-| **Surrogate Modelling for Aerodynamic Flow Prediction** | Physics-aware neural operator (extended FNO) for 2D airfoil flows, conditioned via SDF geometric encoding — first-author manuscript in prep |
-| **RL-assisted PDE-Constrained Shape Optimization** | RL framework using neural surrogates as black-box evaluators for aerodynamic shape optimization |
-| **Multiphysics Domain Decomposition** *(TU Delft)* | Schur-complement interface solvers, GMRES/Krylov methods, Neumann–Neumann & BDD preconditioners for elliptic PDEs |
-| **NeuroSINDy** | Extended SINDy framework (TVDiff + Ensemble SINDy + BIC model selection) — 19.4× lower derivative estimation error vs. finite differences |
-| **Wormbrained** | Biophysical C. elegans-inspired agent: spring-mass Stokeslet fluid model + 48-neuron LIF spiking controller for chemotactic navigation |
-| **ASCEND** | GPS-denied UAV navigation & precision landing using VIO/VSLAM + IBVS, built for ISRO's IRoC-U 2026 |
+| **Surrogate Modelling for Aerodynamic Flow Prediction** *(IIT Jodhpur)* | Physics-aware neural operator for 2D airfoil flows, conditioned via SDF geometric encoding |
+| **RL-assisted PDE-Constrained Shape Optimization** *(IIT Jodhpur)* | RL framework using neural surrogates as black-box evaluators for aerodynamic shape optimization |
+| **Multiphysics Domain Decomposition** *(TU Delft)* | Scalable algorithms for multiphysics and multiscale simulations |
 
-*(Repos for active research projects are private pending publication — ping me for details.)*
+### 🚀 Projects
 
-**Publicly available:**
-
-- 🔧 [**DSA_Project**](https://github.com/taksh2406/DSA_Project) — CI-based social network built with core Data Structures & Algorithms concepts (C++)
+| Project | Description | Repo |
+|---|---|---|
+| **NeuroSINDy** | Extended SINDy framework (TVDiff + Ensemble SINDy + BIC model selection) — 19.4× lower derivative estimation error vs. finite differences | [link](https://github.com/taksh2406/NeuroSINDy) |
+| **Wormbrained** | Biophysical C. elegans-inspired agent: spring-mass Stokeslet fluid model + 48-neuron LIF spiking controller for chemotactic navigation | [link](https://github.com/taksh2406/Wormbrained) |
+| **CortexFlow** | AI-powered cognitive monitoring platform — Chrome extension + Django backend + React dashboard predicting attention breakdowns from behavioural telemetry | [link](PASTE_LINK_HERE) |
+| **OmniRAG** | Full-stack RAG platform for semantic search & grounded Q&A — FastAPI, ChromaDB, Next.js dashboard, Gemini embeddings | [link](https://github.com/HerilMistry/Leptons-Insos) |
+| **SignalSight** | CNN-based wireless modulation classification on RadioML with Grad-CAM explainability, deployed via Flask API | [link](https://github.com/Saumi18/Signal-Sight) |
+| **ML-Driven Aerodynamic Design (STOL Aircraft)** | Surrogate-assisted optimization framework (OpenFOAM + XFOIL/XROTOR + Differential Evolution) — 20–30% drag reduction, Inter-IIT Tech Meet 14.0 | [link](https://drive.google.com/file/d/1FL8QvINLsDvrL0wH9TxOm_2ekblwgY-p/view?usp=drive_link) |
+| **DSA_Project** | CI-based social network built with core Data Structures & Algorithms concepts (C++) | [link](https://github.com/taksh2406/DSA_Project) |
+| **ASCEND** | GPS-denied UAV navigation & precision landing using VIO/VSLAM + IBVS, built for ISRO's IRoC-U 2026 | *no public repo* |
 
 ---
 
