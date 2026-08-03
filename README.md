@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Taksh+Mehta+%F0%9F%91%8B;B.Tech+CSE+%40+IIT+Jodhpur;Scientific+Machine+Learning+%7C+Neural+Operators;Building+Surrogates+for+Physics%2C+One+PDE+at+a+Time" alt="Typing SVG" />
+<div align="center"> 
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Taksh+Mehta+%F0%9F%91%8B;B.Tech+CSE+%40+IIT+Jodhpur;AI+for+Science+%26+Robotics;Building+Physically+Intelligent+Models+for+the+Futute" alt="Typing SVG" /> <br/>
 
 <br/>
 
